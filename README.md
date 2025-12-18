@@ -1,4 +1,4 @@
-"# phpTest"
+# phpTest
 
 Simple PHP demo application that shows a small form to save first and last names into a MySQL database using **PDO** and **prepared statements**.
 
